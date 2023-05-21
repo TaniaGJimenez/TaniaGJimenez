@@ -28,8 +28,9 @@
 
 <br>
 <br>
-<h3 align="left">📫 How to reach me: ...</h3>
-<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=TaniaGJimenez&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+<h3 align="center">📫 How to reach me: ...</h3>
+<div align="center">
   <a href="mailto: taniajimenez.r@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
